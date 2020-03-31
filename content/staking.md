@@ -15,12 +15,13 @@ Staking is the process of locking up a digital asset (ATOMs in the case of the C
 1. Get ATOMs via one of the many cryptocurrency exchanges.
 [List of cryptocurrency exchanges from Messari.io](https://messari.io/asset/cosmos/exchanges)
 
-2. Choose one or more validators to delegate to
+2. Open a [Cosmos Hub Wallet](./wallet-explorers.md#wallets) and choose one or more validators to delegate to.
+
 Validators operate the machines that run the network. Their number is limited to 125.
 They are elected based on the amount of ATOMs delegated to them.
 They never get custody of the ATOMs delegated to them. However, there are [risks] associated with staking with validators.
 
-3. Using a [Wallet], send a simple transaction (often called “Stake” or “Delegate”) to start staking. This locks up your ATOMs and enables the chosen validators to operate the network. 
+3. Using the [Wallet]((./wallet-explorers.md#wallets)), send a simple transaction (often called “Stake” or “Delegate”) to start staking. This locks up your ATOMs and enables the chosen validators to operate the network. 
 
 (ℹ) ATOMs can be unlocked by sending a transaction (often called “Unstake” or “Undelegate”) and waiting 21 days.
 

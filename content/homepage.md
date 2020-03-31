@@ -9,11 +9,11 @@ The Cosmos Hub is the first of thousands of interconnected blockchains that will
 ## Discover the ATOM token
 
 The ATOM token is the primary token of the Cosmos Hub. Its main purpose is to be used for staking – a process which helps to secure the network and earns rewards for ATOM holders.
-Learn more about staking ATOMs → 
 
-## 
+[Learn more about staking ATOMs](./staking.md)
 
-Validators
-Node operators
-Service providers
-Technical documentation →
+## Technical Documentation
+
+[Install the Software]
+[Run a Node]
+[Use the Command-Line Interface]
